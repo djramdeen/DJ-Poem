@@ -6,6 +6,7 @@ blue
 green 
 orange
 yellow
+indego
 teal
 Unicorn
 black
